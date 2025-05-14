@@ -43,5 +43,6 @@ try:
     print("Hata mesajı dönüyor:", alert.text)
 except:
     print("Hata mesajı çıkmadı, giriş başarılı olabilir.")
+    #silinecek
 
 
